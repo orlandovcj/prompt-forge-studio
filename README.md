@@ -6,6 +6,8 @@
 
 Editor de prompts em um único arquivo HTML. Interface escura inspirada nos aplicativos criativos da Adobe e no sistema Spectrum: explorador de arquivos, abas, composição central e biblioteca lateral. O laranja identifica a marca e o documento ativo; o azul marca seleção, foco e a ação principal.
 
+O projeto original foi disponibilizado por https://github.com/felipeAguiarCode/prompt-forge-studio.
+
 ## 🚀 Como abrir
 
 Use a versão online em **[felipeaguiarcode.github.io/prompt-forge-studio](https://felipeaguiarcode.github.io/prompt-forge-studio/)**, publicada pelo GitHub Pages a partir da branch `main`, ou abra `index.html` no navegador. O aplicativo não exige instalação, dependências, login, chave de API ou conexão com serviços externos.
